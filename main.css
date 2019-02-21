@@ -50,3 +50,19 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+.text {
+  font-size: 1.2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #ffc600;
+  border: .4rem solid black;
+  border-radius: .5rem;
+  margin: 1rem;
+  padding: 1rem .5rem;
+  transition: all .07s ease;
+  width: 12rem;
+  text-align: center;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+  
+}
